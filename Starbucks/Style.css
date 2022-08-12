@@ -1,0 +1,163 @@
+/* define the main navigation block */
+/* .top {
+  height: 20px;
+  background-color: green;
+} */
+.header {
+  display: block;
+  position: relative;
+  padding-top: 10px;
+  background-color: rgba(0,99,65,1);
+}
+.mynav {
+    display: block;
+    height: 180px;
+    line-height: 50px;
+    background-color:#f7f7f7;
+    color: black;
+  }
+
+  /* Remove bullets, margin & padding */
+  .mynav ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+  }
+  .mynav li {
+    float: left;
+    padding: 14px 16px;
+    text-align: center;
+    /* or you can use display: inline; */
+  }
+  .mapmain .map .mapicon {
+    text-indent: 540px;
+  }
+  .mapicon{
+    font-size: 20p;
+  }
+  .socialicons {
+    background-color: #f3e5e5;
+    text-align: left;
+    height: 60px;
+    font-size: 40px;
+  }
+  .image0 {
+    background-image: url(0.jpg);
+    /* width: 1440px; */
+  }
+  /* .imgae0 img {
+    width: 100%;
+  } */
+  .image1 {
+    width: 1340px;
+  }
+  .image1 img {
+    width: 100%;
+  }
+  .image6 {
+    width: 1340px;
+  }
+  .image6 img {
+    width: 100%;
+  }.image7 {
+    width: 1340px;
+  }
+  .image7 img {
+    width: 100%;
+  }.image8 {
+    width: 1340px;
+  }
+  .image8 img {
+    width: 100%;
+  }
+  .image9 {
+    width: 1340px;
+  }
+  .image img {
+    width: 100%;
+  }
+  .imagecontainer1 {
+    padding-top: 65px;
+    padding-top: 75px;
+  }
+  .footerinfo ul li {
+    list-style-type: none;
+  }
+  .footerinfo {
+    display: flex;
+    height: 166px;
+    background-color: #f7f7f7;
+    background-image: url(footerimg.png);
+    background-repeat: no-repeat;
+    background-size: 16px;
+    background-position: 98.5% 0;
+    width: 1340px;
+    margin: 0 auto;
+  }
+  .about, .customer, .quicklinks {
+    width: 240px;
+        display: inline-block;
+  }
+  .containertext1 {
+    /* display: inline-block; */
+    margin-top: 70px;
+    margin-bottom: 70px;
+    width: 1349px;
+    height: 520px;
+  }
+  .textcontainer1 {
+    display: flex;
+    width: 1309px;
+    height: 380px;
+  }
+  .containertext1 .textcontainer1 .image3{
+    margin-left: 80px;
+  }
+  .containertext1 .textcontainer1 .h2text{
+    margin-top: 100px;
+    margin-left: 150px; 
+  }
+  .containertext1 .textcontainer1 p {
+    margin-left: 0px;
+  }
+  .containertext2 {
+    /* display: inline-block; */
+    margin-top: 70px;
+    margin-bottom: 70px;
+    width: 1349px;
+    height: 520px;
+  }
+  .textcontainer2 {
+    display: flex;
+    width: 1309px;
+    height: 380px;
+  }
+  .containertext2 .textcontainer2 .image4{
+    margin-left: 300px;
+  }
+  .containertext2 .textcontainer2 .h2text{
+    margin-top: 100px;
+   text-indent: 100px;  
+  }
+  .web {
+    display: block;
+    height: 100px;
+    line-height: 10px;
+    background-color: #f7f7f7;
+    color: black;
+  }
+  .web ul {
+    list-style-type: none;
+    padding: 0%;
+    margin: 0%;
+  }
+  .web li {
+    text-indent: 20px;
+    float: left;
+    padding: 10px 10px;
+    text-align: center;
+    /* or you can use display: inline; */
+  }
+  .web p {
+    text-indent: 30px;
+  }
